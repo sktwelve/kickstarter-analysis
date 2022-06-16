@@ -1,2 +1,2 @@
 # kickstarter-analysis
-data analysis
+Analysis work in support of Kickstarter
