@@ -1,6 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+(resources/outcomes_vs_goals.png)
 
 ### Purpose
 
