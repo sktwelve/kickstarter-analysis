@@ -1,15 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-(./resources/Outcomes_vs_Goals.png)
 
 ### Purpose
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Success of projects based on date launched](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Percentage of successful projects based on their goal amounts](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
