@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+Our client Louise is requesting data on other kickstarters to compare the relationship between their launch dates and their funding goals. In order to fulfill her request, I created 2 charts based on launch dates and goals to draw conclusions and use them to our advantage. 
 
 ## Analysis and Challenges
 
