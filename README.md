@@ -21,6 +21,6 @@ The highest success rate lies within the ranges of lower than 5000 and 35000 thr
 
 Possible challenges that may come from deriving graphs from the data may come from the large amoount of data types given in the original worksheet. Not knowing what data should be used in the graph can cause graphs to look busy or give information that is not important. 
 
-##Limitations and Recommendations
+## Limitations and Recommendations
 
 The time data given does not specify when the donations were given during the kickstarter so what may be more important than start date is rather the concentration of when the bulk of the donations are given. We also weren't given the client's country where they are running their kickstarter. This could be another factor that we could have used to get more accurate conclusions. One graph that we could make is a bar graph of the kickstarters that failed by month to see how close some of them were. Depending on how close to their final goal they were, we can gather information to see which months have more currency incoming to the kickstart site.
